@@ -1,0 +1,12 @@
+/Users/lenguyenhuonggiang/MODEL/ModelProject_Naaman_Le/build/CMakeFiles/my_program.dir
+/Users/lenguyenhuonggiang/MODEL/ModelProject_Naaman_Le/build/CMakeFiles/test.dir
+/Users/lenguyenhuonggiang/MODEL/ModelProject_Naaman_Le/build/CMakeFiles/edit_cache.dir
+/Users/lenguyenhuonggiang/MODEL/ModelProject_Naaman_Le/build/CMakeFiles/rebuild_cache.dir
+/Users/lenguyenhuonggiang/MODEL/ModelProject_Naaman_Le/build/main/src/CMakeFiles/mylibrary.dir
+/Users/lenguyenhuonggiang/MODEL/ModelProject_Naaman_Le/build/main/src/CMakeFiles/test.dir
+/Users/lenguyenhuonggiang/MODEL/ModelProject_Naaman_Le/build/main/src/CMakeFiles/edit_cache.dir
+/Users/lenguyenhuonggiang/MODEL/ModelProject_Naaman_Le/build/main/src/CMakeFiles/rebuild_cache.dir
+/Users/lenguyenhuonggiang/MODEL/ModelProject_Naaman_Le/build/test/CMakeFiles/MyTestFile.dir
+/Users/lenguyenhuonggiang/MODEL/ModelProject_Naaman_Le/build/test/CMakeFiles/test.dir
+/Users/lenguyenhuonggiang/MODEL/ModelProject_Naaman_Le/build/test/CMakeFiles/edit_cache.dir
+/Users/lenguyenhuonggiang/MODEL/ModelProject_Naaman_Le/build/test/CMakeFiles/rebuild_cache.dir

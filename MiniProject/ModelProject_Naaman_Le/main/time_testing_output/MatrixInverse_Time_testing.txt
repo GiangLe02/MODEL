@@ -1,0 +1,51 @@
+Matrix size of 20x20 
+Computation time LU: 0.0002380000 seconds
+Computation time Strassen Strassen: 0.0312770000 seconds
+Computation time Strassen Naive: 0.0002500000 seconds
+
+Matrix size of 30x30 
+Computation time LU: 0.0005480000 seconds
+Computation time Strassen Strassen: 0.0326660000 seconds
+Computation time Strassen Naive: 0.0004170000 seconds
+
+Matrix size of 40x40 
+Computation time LU: 0.0012290000 seconds
+Computation time Strassen Strassen: 0.1618270000 seconds
+Computation time Strassen Naive: 0.0008320000 seconds
+
+Matrix size of 50x50 
+Computation time LU: 0.0018700000 seconds
+Computation time Strassen Strassen: 0.1612730000 seconds
+Computation time Strassen Naive: 0.0013200000 seconds
+
+Matrix size of 80x80 
+Computation time LU: 0.0074730000 seconds
+Computation time Strassen Strassen: 1.0559260000 seconds
+Computation time Strassen Naive: 0.0045550000 seconds
+
+Matrix size of 100x100 
+Computation time LU: 0.0118870000 seconds
+Computation time Strassen Strasse: 1.0609690000 seconds
+Computation time LU: 0.0084160000 seconds
+
+Matrix size of 200x200 
+Computation time LU: 0.0674180000 seconds
+Computation time Strassen Strassen: 6.9413670000 seconds
+Computation time Strassen Naive: 0.0649430000 seconds
+
+
+Matrix size of 300x300 
+Computation time LU: 0.2244300000 seconds
+Computation time Strassen Strasse: 51.2629390000 seconds
+Computation time Strassen Naive: 0.2197090000 seconds
+
+Matrix size of 500x500 
+Computation time LU: 1.0481870000 seconds
+Computation time Strassen Strasse: 50.6194370000 seconds
+Computation time Strassen Naive: 1.0148200000 seconds
+
+Matrix size of 520x520 
+Computation time LU: 1.1613430000 seconds
+Computation time Strassen Strassen: 359.5258930000 seconds
+Computation time Strassen Naive: 1.1769130000 seconds
+

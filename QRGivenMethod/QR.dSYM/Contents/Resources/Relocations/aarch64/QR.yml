@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/lenguyenhuonggiang/MODEL/QRGivenMethod/QR'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _printMatrix, symObjAddr: 0x0, symBinAddr: 0x100003588, symSize: 0xD0 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _printMatrix, symObjAddr: 0x0, symBinAddr: 0x100003588, symSize: 0xD0 }
+  - { offsetInCU: 0xB9, offset: 0xB9, size: 0x8, addend: 0x0, symName: _coef, symObjAddr: 0xD0, symBinAddr: 0x100003658, symSize: 0x44 }
+  - { offsetInCU: 0x10B, offset: 0x10B, size: 0x8, addend: 0x0, symName: _multiplyMatrix, symObjAddr: 0x114, symBinAddr: 0x10000369C, symSize: 0x144 }
+  - { offsetInCU: 0x1EA, offset: 0x1EA, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x258, symBinAddr: 0x1000037E0, symSize: 0x748 }
+...

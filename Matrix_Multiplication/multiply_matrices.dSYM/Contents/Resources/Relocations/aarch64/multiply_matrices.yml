@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/lenguyenhuonggiang/MODEL/Project/Matrix_Multiplication/multiply_matrices'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _printMatrix, symObjAddr: 0x0, symBinAddr: 0x100001F88, symSize: 0xDC }
+  - { offsetInCU: 0x48, offset: 0x48, size: 0x8, addend: 0x0, symName: _printMatrix, symObjAddr: 0x0, symBinAddr: 0x100001F88, symSize: 0xDC }
+  - { offsetInCU: 0xC0, offset: 0xC0, size: 0x8, addend: 0x0, symName: _multiplyNaive, symObjAddr: 0xDC, symBinAddr: 0x100002064, symSize: 0x144 }
+  - { offsetInCU: 0x19F, offset: 0x19F, size: 0x8, addend: 0x0, symName: _zeroPadding, symObjAddr: 0x220, symBinAddr: 0x1000021A8, symSize: 0x164 }
+  - { offsetInCU: 0x233, offset: 0x233, size: 0x8, addend: 0x0, symName: _multiplyStrassen, symObjAddr: 0x384, symBinAddr: 0x10000230C, symSize: 0x17E0 }
+  - { offsetInCU: 0x8D6, offset: 0x8D6, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x1B64, symBinAddr: 0x100003AEC, symSize: 0x3E0 }
+...

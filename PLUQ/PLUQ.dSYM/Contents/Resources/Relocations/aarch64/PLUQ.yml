@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/lenguyenhuonggiang/MODEL/PLUQ/PLUQ'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _printMatrix, symObjAddr: 0x0, symBinAddr: 0x1000031B8, symSize: 0xBC }
+  - { offsetInCU: 0xE9, offset: 0xE9, size: 0x8, addend: 0x0, symName: _printMatrix, symObjAddr: 0x0, symBinAddr: 0x1000031B8, symSize: 0xBC }
+  - { offsetInCU: 0x153, offset: 0x153, size: 0x8, addend: 0x0, symName: _updateLU, symObjAddr: 0xBC, symBinAddr: 0x100003274, symSize: 0x1BC }
+  - { offsetInCU: 0x1F5, offset: 0x1F5, size: 0x8, addend: 0x0, symName: _swapRow, symObjAddr: 0x278, symBinAddr: 0x100003430, symSize: 0x134 }
+  - { offsetInCU: 0x297, offset: 0x297, size: 0x8, addend: 0x0, symName: _swapColumn, symObjAddr: 0x3AC, symBinAddr: 0x100003564, symSize: 0xB8 }
+  - { offsetInCU: 0x30F, offset: 0x30F, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x464, symBinAddr: 0x10000361C, symSize: 0x874 }
+...

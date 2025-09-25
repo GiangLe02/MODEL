@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmodel.a CMakeFiles/model.dir/main.c.o CMakeFiles/model.dir/function.c.o CMakeFiles/model.dir/inverse.c.o CMakeFiles/model.dir/LU.c.o CMakeFiles/model.dir/multiply_matrices.c.o
+/usr/bin/ranlib libmodel.a

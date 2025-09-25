@@ -1,0 +1,21 @@
+Matrix size of 200x200
+Computation time for LU Decomposition: 0.0420000000 seconds
+
+Matrix size of 300x300
+Computation time for LU Decomposition: 0.0980000000 seconds
+
+Matrix size of 500x500
+Computation time for LU Decomposition: 0.2890000000 seconds
+
+Matrix size of 1000x1000
+Computation time for LU Decomposition: 2.2430000000 seconds
+
+Matrix size of 2000x2000
+Computation time for LU Decomposition: 20.8560000000 seconds
+
+Matrix size of 3000x3000
+Computation time for LU Decomposition: 60.3170000000 seconds
+
+Matrix size of 5000x5000
+Computation time for LU Decomposition: 319.2160000000 seconds
+

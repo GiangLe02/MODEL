@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "mpfr.h": "c",
+        "stdlib.h": "c",
+        "bitset": "c",
+        "initializer_list": "c",
+        "string": "c",
+        "string_view": "c",
+        "time.h": "c",
+        "cunit.h": "c",
+        "CUnit.h": "c",
+    },
+    "cmake.sourceDirectory": "/Users/lenguyenhuonggiang/MODEL/Project_final"
+}

@@ -1,0 +1,18 @@
+Multiplying Matrices of size 200x200 and 200x200
+Computation time for Naive Matrix Multiplication: 0.0490000000 seconds 
+
+Multiplying Matrices of size 300x300 and 300x300
+Computation time for Naive Matrix Multiplication: 0.1710000000 seconds 
+
+Multiplying Matrices of size 500x500 and 500x500
+Computation time for Naive Matrix Multiplication: 0.6150000000 seconds 
+
+Multiplying Matrices of size 1000x1000 and 1000x1000
+Computation time for Naive Matrix Multiplication: 12.8950000000 seconds 
+
+Multiplying Matrices of size 2000x2000 and 2000x2000
+Computation time for Naive Matrix Multiplication: 162.2580000000 seconds 
+
+Multiplying Matrices of size 3000x3000 and 3000x3000
+Computation time for Naive Matrix Multiplication: 480.8310000000 seconds 
+

@@ -1,0 +1,39 @@
+Matrix size of 20x20 and 20x20
+Computation time Naive: 0.0000680000 seconds
+Computation time Strassen: 0.0225410000 seconds
+
+Matrix size of 30x30 and 30x30
+Computation time Naive: 0.0002100000 seconds
+Computation time Strassen: 0.0229680000 seconds
+
+Matrix size of 40x40 and 40x40
+Computation time Naive: 0.0004650000 seconds
+Computation time Strassen: 0.0857680000 seconds
+
+Matrix size of 50x50 and 50x50
+Computation time Naive: 0.0009530000 seconds
+Computation time Strassen: 0.0798700000 seconds
+
+Matrix size of 80x80 and 80x80
+Computation time Naive: 0.0031570000 seconds
+Computation time Strassen: 0.3899370000 seconds
+
+Matrix size of 100x100 and 100x100
+Computation time Naive: 0.0044590000 seconds
+Computation time Strassen: 0.3812290000 seconds
+
+Matrix size of 200x200 and 200x200
+Computation time Naive: 0.0302970000 seconds
+Computation time Strassen: 2.6833550000 seconds
+
+Matrix size of 300x300 and 300x300
+Computation time Naive: 0.0926460000 seconds
+Computation time Strassen: 18.5373000000 seconds
+
+Matrix size of 500x500 and 500x500
+Computation time Naive: 0.4374720000 seconds
+Computation time Strassen: 19.1232780000 seconds
+
+Matrix size of 520x520 and 520x520
+Computation time Naive: 0.4927070000 seconds
+Computation time Strassen: 132.0079340000 seconds

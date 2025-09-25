@@ -1,0 +1,50 @@
+Inverting using Strassen a Matrix of size 20x20 
+Computation time for Matrix Inversion using Strassen and Strassen Multiplication: 0.1350000000 seconds 
+
+Computation time for Matrix Inversion using Strassen and Naive Multiplication: 0.0010000000 seconds 
+
+Inverting using Strassen a Matrix of size 30x30 
+Computation time for Matrix Inversion using Strassen and Strassen Multiplication: 0.0710000000 seconds 
+
+Computation time for Matrix Inversion using Strassen and Naive Multiplication: 0.0010000000 seconds 
+
+Inverting using Strassen a Matrix of size 40x40 
+Computation time for Matrix Inversion using Strassen and Strassen Multiplication: 0.3140000000 seconds 
+
+Computation time for Matrix Inversion using Strassen and Naive Multiplication: 0.0010000000 seconds 
+
+Inverting using Strassen a Matrix of size 50x50 
+Computation time for Matrix Inversion using Strassen and Strassen Multiplication: 0.3520000000 seconds 
+
+Computation time for Matrix Inversion using Strassen and Naive Multiplication: 0.0010000000 seconds 
+
+Inverting using Strassen a Matrix of size 80x80 
+Computation time for Matrix Inversion using Strassen and Strassen Multiplication: 1.7900000000 seconds 
+
+Computation time for Matrix Inversion using Strassen and Naive Multiplication: 0.0050000000 seconds 
+
+Inverting using Strassen a Matrix of size 100x100 
+Computation time for Matrix Inversion using Strassen and Strassen Multiplication: 1.9510000000 seconds 
+
+Computation time for Matrix Inversion using Strassen and Naive Multiplication: 0.0060000000 seconds 
+
+Inverting using Strassen a Matrix of size 200x200 
+Computation time for Matrix Inversion using Strassen and Strassen Multiplication: 10.8960000000 seconds 
+
+Computation time for Matrix Inversion using Strassen and Naive Multiplication: 0.0460000000 seconds 
+
+Inverting using Strassen a Matrix of size 300x300 
+Computation time for Matrix Inversion using Strassen and Strassen Multiplication: 77.1780000000 seconds 
+
+Computation time for Matrix Inversion using Strassen and Naive Multiplication: 0.1880000000 seconds 
+
+Inverting using Strassen a Matrix of size 500x500 
+Computation time for Matrix Inversion using Strassen and Strassen Multiplication: 79.9450000000 seconds 
+
+Computation time for Matrix Inversion using Strassen and Naive Multiplication: 1.1030000000 seconds 
+
+Inverting using Strassen a Matrix of size 520x520 
+Computation time for Matrix Inversion using Strassen and Strassen Multiplication: 645.7420000000 seconds 
+
+Computation time for Matrix Inversion using Strassen and Naive Multiplication: 1.3170000000 seconds 
+

@@ -1,0 +1,5 @@
+/Users/lenguyenhuonggiang/MODEL/build/CMakeFiles/my_program.dir
+/Users/lenguyenhuonggiang/MODEL/build/CMakeFiles/MyTestFile.dir
+/Users/lenguyenhuonggiang/MODEL/build/CMakeFiles/test.dir
+/Users/lenguyenhuonggiang/MODEL/build/CMakeFiles/edit_cache.dir
+/Users/lenguyenhuonggiang/MODEL/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,18 @@
+Inverting using LU a Matrix of size 200x200 
+Computation time for Matrix Inversion using LU: 0.1270000000 seconds 
+
+Inverting using LU a Matrix of size 300x300 
+Computation time for Matrix Inversion using LU: 0.2610000000 seconds 
+
+Inverting using LU a Matrix of size 500x500 
+Computation time for Matrix Inversion using LU: 1.1180000000 seconds 
+
+Inverting using LU a Matrix of size 1000x1000 
+Computation time for Matrix Inversion using LU: 8.2580000000 seconds 
+
+Inverting using LU a Matrix of size 2000x2000 
+Computation time for Matrix Inversion using LU: 70.9400000000 seconds 
+
+Inverting using LU a Matrix of size 3000x3000 
+Computation time for Matrix Inversion using LU: 225.9940000000 seconds 
+

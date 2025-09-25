@@ -1,0 +1,27 @@
+Multiplying Matrices of size 10x10 and 10x10
+Computation time for Strassen Matrix Multiplication: 0.0090000000 seconds 
+
+Multiplying Matrices of size 20x20 and 20x20
+Computation time for Strassen Matrix Multiplication: 0.1160000000 seconds 
+
+Multiplying Matrices of size 50x50 and 50x50
+Computation time for Strassen Matrix Multiplication: 0.3120000000 seconds 
+
+Multiplying Matrices of size 80x80 and 80x80
+Computation time for Strassen Matrix Multiplication: 2.0090000000 seconds 
+
+Multiplying Matrices of size 100x100 and 100x100
+Computation time for Strassen Matrix Multiplication: 1.9790000000 seconds 
+
+Multiplying Matrices of size 200x200 and 200x200
+Computation time for Strassen Matrix Multiplication: 13.1880000000 seconds 
+
+Multiplying Matrices of size 300x300 and 300x300
+Computation time for Strassen Matrix Multiplication: 98.2340000000 seconds 
+
+Multiplying Matrices of size 500x500 and 500x500
+Computation time for Strassen Matrix Multiplication: 73.9130000000 seconds 
+
+Multiplying Matrices of size 520x520 and 520x520
+Computation time for Strassen Matrix Multiplication: 725.7070000000 seconds 
+

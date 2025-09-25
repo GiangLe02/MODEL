@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/lenguyenhuonggiang/MODEL/Karatsuba/karatsuba_poly'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _nextPowerOfTwo, symObjAddr: 0x0, symBinAddr: 0x1000037C0, symSize: 0x48 }
+  - { offsetInCU: 0x4D, offset: 0x4D, size: 0x8, addend: 0x0, symName: _nextPowerOfTwo, symObjAddr: 0x0, symBinAddr: 0x1000037C0, symSize: 0x48 }
+  - { offsetInCU: 0x83, offset: 0x83, size: 0x8, addend: 0x0, symName: _printMatrix, symObjAddr: 0x48, symBinAddr: 0x100003808, symSize: 0x84 }
+  - { offsetInCU: 0xD1, offset: 0xD1, size: 0x8, addend: 0x0, symName: _Karatsuba, symObjAddr: 0xCC, symBinAddr: 0x10000388C, symSize: 0x3F0 }
+  - { offsetInCU: 0x203, offset: 0x203, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x4BC, symBinAddr: 0x100003C7C, symSize: 0x290 }
+...
